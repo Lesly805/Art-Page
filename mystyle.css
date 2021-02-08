@@ -10,3 +10,8 @@ body{
 div{ 
   background:rgb(204, 255, 218);
 }
+div {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+}
